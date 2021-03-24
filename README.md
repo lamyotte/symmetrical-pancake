@@ -42,8 +42,8 @@ Or just access the fileserver (no mapping)
 
 ### Next steps :
 
--Adding navigation between pages
--Add support for not just jpg
--Adding a proper visualization too
--Adding tagging and searches
--Adding scripts for populating database
+- Adding navigation between pages
+- Add support for not just jpg
+- Adding a proper visualization too
+- Adding tagging and searches
+- Adding scripts for populating database
